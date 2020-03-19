@@ -1,4 +1,4 @@
 {
-    "connectionString": "mongodb://rafiudd:123123123@0.0.0.0:27017/buku-saku",
+    "connectionString": "mongodb://localhost:27017/node-mongodb",
     "secret": "LOKIJUHYAQSWDE"
 }
